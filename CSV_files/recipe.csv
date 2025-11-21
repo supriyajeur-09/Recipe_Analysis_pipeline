@@ -1,0 +1,21 @@
+recipe_id,name,description,servings,author_id,created_on,updated_on,total_views,total_likes,total_cook_attempts
+recipe_1,Veg Pulao,A fragrant vegetable pulao made with basmati rice and mixed veggies.,2,user_001,2025-11-21 12:51:18.052429+00:00,2025-11-21 12:51:18.052429+00:00,0,0,0
+recipe_10,Pav Bhaji,A delicious Pav Bhaji recipe.,4,user_8,2025-11-21 12:51:19.002198+00:00,2025-11-21 12:51:19.002198+00:00,0,0,0
+recipe_11,Sambar Rice,A delicious Sambar Rice recipe.,2,user_9,2025-11-21 12:51:19.069857+00:00,2025-11-21 12:51:19.069857+00:00,0,0,0
+recipe_12,Mango Lassi,A delicious Mango Lassi recipe.,1,user_2,2025-11-21 12:51:19.129422+00:00,2025-11-21 12:51:19.129422+00:00,0,0,0
+recipe_13,Poha,A delicious Poha recipe.,4,user_8,2025-11-21 12:51:19.170512+00:00,2025-11-21 12:51:19.170512+00:00,0,0,0
+recipe_14,Upma,A delicious Upma recipe.,4,user_6,2025-11-21 12:51:19.200541+00:00,2025-11-21 12:51:19.200541+00:00,0,0,0
+recipe_15,Fried Rice,A delicious Fried Rice recipe.,3,user_5,2025-11-21 12:51:19.238652+00:00,2025-11-21 12:51:19.238652+00:00,0,0,0
+recipe_16,Jeera Rice,A delicious Jeera Rice recipe.,1,user_2,2025-11-21 12:51:19.284462+00:00,2025-11-21 12:51:19.284462+00:00,0,0,0
+recipe_17,Lemon Rice,A delicious Lemon Rice recipe.,2,user_3,2025-11-21 12:51:19.327576+00:00,2025-11-21 12:51:19.327576+00:00,0,0,0
+recipe_18,Curd Rice,A delicious Curd Rice recipe.,1,user_3,2025-11-21 12:51:19.384115+00:00,2025-11-21 12:51:19.384115+00:00,0,0,0
+recipe_19,Veg Momos,A delicious Veg Momos recipe.,4,user_7,2025-11-21 12:51:19.417777+00:00,2025-11-21 12:51:19.417777+00:00,0,0,0
+recipe_2,Paneer Butter Masala,A delicious Paneer Butter Masala recipe.,2,user_9,2025-11-21 12:51:18.556579+00:00,2025-11-21 12:51:18.556579+00:00,0,0,0
+recipe_20,Chilli Paneer,A delicious Chilli Paneer recipe.,4,user_9,2025-11-21 12:51:19.446765+00:00,2025-11-21 12:51:19.446765+00:00,0,0,0
+recipe_3,Dal Tadka,A delicious Dal Tadka recipe.,2,user_8,2025-11-21 12:51:18.616003+00:00,2025-11-21 12:51:18.616003+00:00,0,0,0
+recipe_4,Masala Dosa,A delicious Masala Dosa recipe.,4,user_7,2025-11-21 12:51:18.670747+00:00,2025-11-21 12:51:18.670747+00:00,0,0,0
+recipe_5,Aloo Paratha,A delicious Aloo Paratha recipe.,2,user_9,2025-11-21 12:51:18.724200+00:00,2025-11-21 12:51:18.724200+00:00,0,0,0
+recipe_6,Chicken Biryani,A delicious Chicken Biryani recipe.,3,user_8,2025-11-21 12:51:18.783216+00:00,2025-11-21 12:51:18.783216+00:00,0,0,0
+recipe_7,Egg Curry,A delicious Egg Curry recipe.,1,user_7,2025-11-21 12:51:18.849629+00:00,2025-11-21 12:51:18.849629+00:00,0,0,0
+recipe_8,Vegetable Khichdi,A delicious Vegetable Khichdi recipe.,2,user_4,2025-11-21 12:51:18.892805+00:00,2025-11-21 12:51:18.892805+00:00,0,0,0
+recipe_9,Chole Bhature,A delicious Chole Bhature recipe.,2,user_4,2025-11-21 12:51:18.951480+00:00,2025-11-21 12:51:18.951480+00:00,0,0,0
