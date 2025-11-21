@@ -1,0 +1,15 @@
+===== DATA QUALITY VALIDATION REPORT =====
+
+===== SUMMARY =====
+
+Valid recipes: 20
+Invalid recipes: 0
+
+Valid ingredients: 74
+Invalid ingredients: 0
+
+Valid steps: 67
+Invalid steps: 0
+
+Valid interactions: 300
+Invalid interactions: 0
